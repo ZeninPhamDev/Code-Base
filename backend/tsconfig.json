@@ -1,0 +1,13 @@
+ {
+    "compilerOptions": {
+      "target": "es2015",
+      "outDir": "./build",
+      "strict": true,
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true
+    },
+    // "include": ["src/**/*.ts"],
+    // "exclude": ["./build"]
+  }
